@@ -1,0 +1,12 @@
+Dies ist die Abgabe von Konrad Brüggemann (808632).
+Die ausführbare Datei ist "main.py", die restlichen Dateien (config.py, room.py, rooms.py, object.py, objects.py, text_art.py, player.py, map.py) müssen sich im gleichen Ordner befinden.
+In der config-Datei können die Einstellungen des SPiels angepasst werden, sonst wird mit den Standard-settings gestartet.
+Wenn alles korrekt funktioniert, beginnt das Spiel mit der Frage, wie der Spieler heißt. Danach geht es los.
+Befehle:
+-pick up
+-move right/left/down/up
+-show map
+-get location
+-show inventory
+-show points
+-use
